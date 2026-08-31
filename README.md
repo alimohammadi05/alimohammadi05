@@ -2,96 +2,55 @@
 
 🎓 Computer Science Student
 💻 C & C++ | Currently Learning Python
-🤖 Interested in Artificial Intelligence & Machine Learning
+🚀 Interested in Software Development, AI & Machine Learning
 
 ---
 
 ## About Me
 
-I'm a Computer Science student interested in programming, problem solving, algorithms, and building software.
+I'm a Computer Science student interested in programming, problem solving, algorithms, and software development.
 
-I started my programming journey with **C and C++**, where I worked on programming fundamentals, Object-Oriented Programming, Data Structures, Algorithms, and several university projects.
-
-Currently, I'm focusing on **Python** and building a stronger foundation for my future studies and projects in **Artificial Intelligence and Machine Learning**.
-
-My goal is to gradually move from learning fundamentals to building real-world projects and developing practical skills.
+I started with **C and C++** and I'm currently focusing on **Python**, with the goal of progressing toward **Django, Backend Development, AI, and Machine Learning**.
 
 ---
 
-## My Learning Path
+## Previously Used
 
-```text
-C
- ↓
-C++
- ↓
-Object-Oriented Programming
- ↓
-Data Structures & Algorithms
- ↓
-Python
- ↓
-NumPy / Pandas / SQL
- ↓
-Machine Learning
- ↓
-Deep Learning
- ↓
-Artificial Intelligence
-```
-
-I'm not trying to learn everything at once.
-I prefer to build a strong foundation, learn step by step, and turn what I learn into actual projects.
-
----
+* C
+* C++
+* Data Structures & Algorithms
+* Git & GitHub
 
 ## Currently Learning
 
 * 🐍 Python
-* 🧠 Python Programming & Problem Solving
+* 🧠 Programming & Problem Solving
 * 🔧 Git & GitHub
-* 🤖 Preparing for Machine Learning & AI
 
 ## Future Focus
 
+* Django & Backend Development
+* SQL & REST APIs
+* NumPy & Pandas
 * Machine Learning
 * Deep Learning
 * PyTorch
-* AI
-* Real-world AI Projects
-
----
-
-## Languages & Technologies
-
-### Currently / Previously Used
-
-* C
-* C++
-* Git
-* GitHub
-
-### Learning
-
-* Python
-
-### Future
-
-* NumPy
-* Pandas
-* SQL
-* Scikit-learn
-* PyTorch
-* Machine Learning
-* Deep Learning
 * Artificial Intelligence
 
 ---
 
-## My Goal
+## Game Projects 🎮
 
-I want this GitHub profile to be more than just a collection of code.
+Some Android game repositories on this profile were created with **Godot purely out of personal interest**.
 
-I want it to document my **learning journey, progress, and projects** over the years — from my first programming exercises to more advanced projects in Python, Machine Learning, and AI.
+They are **side projects and are not part of my main learning or career path**.
+
+My main focus is **Python, Django, Backend Development, AI, and Machine Learning**.
+
+---
+
+## Goal
+
+I use this profile to document my **learning journey, progress, and projects** as I grow from programming fundamentals toward real-world software and AI projects.
 
 Thanks for visiting! 🚀
