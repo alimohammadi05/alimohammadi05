@@ -10,7 +10,7 @@
 
 I'm a Computer Science student interested in programming, problem solving, algorithms, and software development.
 
-I started with **C and C++** and I'm currently focusing on **Python**, with the goal of progressing toward **Django, Backend Development, AI, and Machine Learning**.
+I started with **C and C++** and I'm currently focusing on **Python**, while building my programming skills through courses, university studies, and personal projects.
 
 ---
 
@@ -26,11 +26,12 @@ I started with **C and C++** and I'm currently focusing on **Python**, with the 
 * 🐍 Python
 * 🧠 Programming & Problem Solving
 * 🔧 Git & GitHub
+* 🗄️ Databases & SQL
 
 ## Future Focus
 
-* Django & Backend Development
-* SQL & REST APIs
+* Python Development
+* SQL & Databases
 * NumPy & Pandas
 * Machine Learning
 * Deep Learning
@@ -45,7 +46,7 @@ Some Android game repositories on this profile were created with **Godot purely 
 
 They are **side projects and are not part of my main learning or career path**.
 
-My main focus is **Python, Django, Backend Development, AI, and Machine Learning**.
+My main focus is **Python development, with a long-term interest in Artificial Intelligence and Machine Learning**.
 
 ---
 
