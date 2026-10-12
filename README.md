@@ -24,18 +24,14 @@ I started with **C and C++** and I'm currently focusing on **Python**, while bui
 ## Currently Learning
 
 * 🐍 Python
-* 🧠 Programming & Problem Solving
-* 🔧 Git & GitHub
 * 🗄️ Databases & SQL
 
 ## Future Focus
 
 * Python Development
 * SQL & Databases
-* NumPy & Pandas
 * Machine Learning
-* Deep Learning
-* PyTorch
+* Deep Learning 
 * Artificial Intelligence
 
 ---
